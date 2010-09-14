@@ -1,0 +1,276 @@
+[submodule "export_ensemble"]
+	path = export_ensemble
+	url = git://github.com/symphonycms/export_ensemble.git
+[submodule "markdown"]
+	path = markdown
+	url = git://github.com/symphonycms/markdown.git
+[submodule "maintenance_mode"]
+	path = maintenance_mode
+	url = git://github.com/symphonycms/maintenance_mode.git
+[submodule "selectbox_link_field"]
+	path = selectbox_link_field
+	url = git://github.com/symphonycms/selectbox_link_field.git
+[submodule "jit_image_manipulation"]
+	path = jit_image_manipulation
+	url = git://github.com/symphonycms/jit_image_manipulation.git
+[submodule "profiledevkit"]
+	path = profiledevkit
+	url = git://github.com/symphonycms/profiledevkit.git
+[submodule "debugdevkit"]
+	path = debugdevkit
+	url = git://github.com/symphonycms/debugdevkit.git
+[submodule "asdc"]
+	path = asdc
+	url = git://github.com/pointybeard/asdc.git
+[submodule "vimeo_videos"]
+	path = vimeo_videos
+	url = git://github.com/nickdunn/vimeo_videos.git
+[submodule "entry_attribute_counts"]
+	path = entry_attribute_counts
+	url = git://github.com/nickdunn/entry_attribute_counts.git
+[submodule "entry_versions"]
+	path = entry_versions
+	url = http://github.com/nickdunn/entry_versions.git
+[submodule "sitemap"]
+	path = sitemap
+	url = git://github.com/nickdunn/sitemap.git
+[submodule "entity_diagram"]
+	path = entity_diagram
+	url = git://github.com/nickdunn/entity_diagram.git
+[submodule "html_panel"]
+	path = html_panel
+	url = git://github.com/nickdunn/html_panel.git
+[submodule "geo_location_service"]
+	path = geo_location_service
+	url = git://github.com/josephdenne/Geo-Location-Service.git
+[submodule "netspeed_service"]
+	path = netspeed_service
+	url = git://github.com/josephdenne/netspeed-service.git
+[submodule "symphony_2_router"]
+	path = symphony_2_router
+	url = git://github.com/robphilp/Symphony-2-Router.git
+[submodule "symphony_2_dummyimages"]
+	path = symphony_2_dummyimages
+	url = git://github.com/robphilp/Symphony-2-Dummyimage.git
+[submodule "tracker"]
+	path = tracker
+	url = git://github.com/czheng/tracker.git
+[submodule "richtext_tinymce"]
+	path = richtext_tinymce
+	url = git://github.com/nickdunn/richtext_tinymce.git
+[submodule "dashboard"]
+	path = dashboard
+	url = git://github.com/nickdunn/dashboard.git
+[submodule "search_index"]
+	path = search_index
+	url = git://github.com/nickdunn/search_index.git
+[submodule "far_future_cache_controller"]
+	path = far_future_cache_controller
+	url = git://github.com/nickdunn/far_future_cache_controller.git
+[submodule "html5_doctype"]
+	path = html5_doctype
+	url = git://github.com/nickdunn/html5_doctype.git
+[submodule "xml_selectbox"]
+	path = xml_selectbox
+	url = git://github.com/nickdunn/xml_selectbox.git
+[submodule "order_entries"]
+	path = order_entries
+	url = git://github.com/nickdunn/order_entries.git
+[submodule "maplocationfield"]
+	path = maplocationfield
+	url = git://github.com/nickdunn/maplocationfield.git
+[submodule "gravatar"]
+	path = gravatar
+	url = git://github.com/nickdunn/gravatar.git
+[submodule "eventex"]
+	path = eventex
+	url = git://github.com/nickdunn/eventex.git
+[submodule "duplicate_entry"]
+	path = duplicate_entry
+	url = git://github.com/nickdunn/duplicate_entry.git
+[submodule "section_schemas"]
+	path = section_schemas
+	url = git://github.com/nickdunn/section_schemas.git
+[submodule "cacheabledatasource"]
+	path = cacheabledatasource
+	url = git://github.com/nickdunn/cacheabledatasource.git
+[submodule "globalresourceloader"]
+	path = globalresourceloader
+	url = git://github.com/rowan-lewis/globalresourceloader.git
+[submodule "character_limits"]
+	path = character_limits
+	url = git://github.com/nickdunn/character_limits.git
+[submodule "entry_url_field"]
+	path = entry_url_field
+	url = git://github.com/nickdunn/entry_url_field.git
+[submodule "uploadselectboxfield"]
+	path = uploadselectboxfield
+	url = git://github.com/nickdunn/uploadselectboxfield.git
+[submodule "publish_tabs"]
+	path = publish_tabs
+	url = git://github.com/nickdunn/publish_tabs.git
+[submodule "subsectionmanager"]
+	path = subsectionmanager
+	url = git://github.com/nilshoerrmann/subsectionmanager.git
+[submodule "stage"]
+	path = stage
+	url = git://github.com/nilshoerrmann/stage.git
+[submodule "datetime"]
+	path = datetime
+	url = git://github.com/nilshoerrmann/datetime.git
+[submodule "unpublishedfilter"]
+	path = unpublishedfilter
+	url = git://github.com/nilshoerrmann/unpublishedfilter.git
+[submodule "localisationmanager"]
+	path = localisationmanager
+	url = git://github.com/nilshoerrmann/localisationmanager.git
+[submodule "custompreferences"]
+	path = custompreferences
+	url = git://github.com/eKoeS/custompreferences.git
+[submodule "system_date_field"]
+	path = system_date_field
+	url = git://github.com/pointybeard/system_date_field.git
+[submodule "lang_russian"]
+	path = lang_russian
+	url = git://github.com/ibcico/lang_russian.git
+[submodule "quick_preview"]
+	path = quick_preview
+	url = git://github.com/icek/quick_preview.git
+[submodule "static_section"]
+	path = static_section
+	url = git://github.com/knupska/static_section.git
+[submodule "cachelite"]
+	path = cachelite
+	url = git://github.com/makenosound/cachelite.git
+[submodule "quickevent"]
+	path = quickevent
+	url = git://github.com/knupska/quickevent.git
+[submodule "quickds"]
+	path = quickds
+	url = git://github.com/knupska/quickds.git
+[submodule "documenter"]
+	path = documenter
+	url = git://github.com/czheng/documenter.git
+[submodule "shrimp"]
+	path = shrimp
+	url = http://github.com/makenosound/shrimp.git
+[submodule "url_segments"]
+	path = url_segments
+	url = git://github.com/makenosound/url_segments.git
+[submodule "mobiledevicedetection"]
+	path = mobiledevicedetection
+	url = http://github.com/makenosound/mobiledevicedetection.git
+[submodule "jquery_date_picker"]
+	path = jquery_date_picker
+	url = git://github.com/makenosound/jquery_date_picker.git
+[submodule "jquery-placeheld"]
+	path = jquery-placeheld
+	url = git://github.com/makenosound/jquery-placeheld.git
+[submodule "filemanager"]
+	path = filemanager
+	url = git://github.com/pointybeard/filemanager.git
+[submodule "rest_api"]
+	path = rest_api
+	url = git://github.com/czheng/rest_api.git
+[submodule "pagetemplates"]
+	path = pagetemplates
+	url = git://github.com/czheng/pagetemplates.git
+[submodule "datemodified"]
+	path = datemodified
+	url = git://github.com/czheng/datemodified.git
+[submodule "dsi"]
+	path = dsi
+	url = git://github.com/czheng/dsi.git
+[submodule "enhancedtaglist"]
+	path = enhancedtaglist
+	url = git://github.com/czheng/enhancedtaglist.git
+[submodule "default_page_template"]
+	path = default_page_template
+	url = git://github.com/icek/default_page_template.git
+[submodule "builder"]
+	path = builder
+	url = git://github.com/alpacaaa/builder.git
+[submodule "image_info"]
+	path = image_info
+	url = git://github.com/alpacaaa/image_info.git
+[submodule "publishfiltering"]
+	path = publishfiltering
+	url = git://github.com/nickdunn/publishfiltering.git
+[submodule "dump-db"]
+	path = dump-db
+	url = git://github.com/phoque/dump-db.git
+[submodule "force_download"]
+	path = force_download
+	url = git://github.com/kanduvisla/force_download.git
+[submodule "globalparamloader"]
+	path = globalparamloader
+	url = git://github.com/carsten/globalparamloader.git
+[submodule "multiselect_to_checkboxes"]
+	path = multiselect_to_checkboxes
+	url = git://github.com/Demwunz/multiselect_to_checkboxes.git
+[submodule "backend_add_script"]
+	path = backend_add_script
+	url = git://github.com/kanduvisla/backend_add_script.git
+[submodule "collapse_sectionfields"]
+	path = collapse_sectionfields
+	url = git://github.com/carsten/collapse_sectionfields.git
+[submodule "youtube_videos"]
+	path = youtube_videos
+	url = git://github.com/rainerborene/youtube_videos.git
+[submodule "frontend_debug"]
+	path = frontend_debug
+	url = git://github.com/kanduvisla/frontend_debug.git
+[submodule "author_section"]
+	path = author_section
+	url = git://github.com/kanduvisla/author_section.git
+[submodule "multilanguage"]
+	path = multilanguage
+	url = git://github.com/kanduvisla/multilanguage.git
+[submodule "Search-Results"]
+	path = Search-Results
+	url = git://github.com/kanduvisla/Search-Results.git
+[submodule "showhide_fields"]
+	path = showhide_fields
+	url = git://github.com/eKoeS/showhide_fields.git
+[submodule "uniqueuploadfield"]
+	path = uniqueuploadfield
+	url = git://github.com/michael-e/uniqueuploadfield.git
+[submodule "email_newsletters"]
+	path = email_newsletters
+	url = git://github.com/michael-e/email_newsletters.git
+[submodule "http_status_line_mappings"]
+	path = http_status_line_mappings
+	url = git://github.com/michael-e/http_status_line_mappings.git
+[submodule "textformatter_labels"]
+	path = textformatter_labels
+	url = git://github.com/michael-e/textformatter_labels.git
+[submodule "exsl_function_manager"]
+	path = exsl_function_manager
+	url = git://github.com/ashooner/exsl_function_manager.git
+[submodule "new_entry_notice"]
+	path = new_entry_notice
+	url = git://github.com/wisolman/new_entry_notice.git
+[submodule "markdown_guide"]
+	path = markdown_guide
+	url = git://github.com/wisolman/markdown_guide.git
+[submodule "helloworld"]
+	path = helloworld
+	url = git://github.com/wisolman/helloworld.git
+[submodule "symphony-ckeditor"]
+	path = symphony-ckeditor
+	url = git://github.com/tonyarnold/symphony-ckeditor.git
+[submodule "symphony-typography"]
+	path = symphony-typography
+	url = git://github.com/tonyarnold/symphony-typography.git
+[submodule "datestamp_helper"]
+	path = datestamp_helper
+	url = git://github.com/rainerborene/datestamp_helper.git
+[submodule "systemidfield"]
+	path = systemidfield
+	url = git://github.com/rowan-lewis/systemidfield.git
+[submodule "textboxfield"]
+	path = textboxfield
+	url = git://github.com/rowan-lewis/textboxfield.git
+[submodule "upload_many"]
+	path = upload_many
+	url = git://github.com/creativedutchmen/upload_many.git
