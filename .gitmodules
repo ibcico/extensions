@@ -274,3 +274,6 @@
 [submodule "upload_many"]
 	path = upload_many
 	url = git://github.com/creativedutchmen/upload_many.git
+[submodule "mediathek"]
+	path = mediathek
+	url = git://github.com/nilshoerrmann/mediathek.git
