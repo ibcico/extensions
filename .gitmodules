@@ -277,3 +277,15 @@
 [submodule "mediathek"]
 	path = mediathek
 	url = git://github.com/nilshoerrmann/mediathek.git
+[submodule "edit_area"]
+	path = edit_area
+	url = git://github.com/icek/edit_area.git
+[submodule "referencelink"]
+	path = referencelink
+	url = git://github.com/czheng/referencelink.git
+[submodule "uploadify"]
+	path = uploadify
+	url = git://github.com/nickdunn/uploadify.git
+[submodule "massuploadutility"]
+	path = massuploadutility
+	url = git://github.com/scottkf/massuploadutility.git
