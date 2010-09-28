@@ -111,7 +111,7 @@
 	url = git://github.com/nickdunn/publish_tabs.git
 [submodule "subsectionmanager"]
 	path = subsectionmanager
-	url = git://github.com/nilshoerrmann/subsectionmanager.git
+	url = git@github.com:2webcompany/subsectionmanager.git
 [submodule "stage"]
 	path = stage
 	url = git://github.com/nilshoerrmann/stage.git
