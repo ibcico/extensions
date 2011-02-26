@@ -196,9 +196,6 @@
 [submodule "publishfiltering"]
 	path = publishfiltering
 	url = git://github.com/nickdunn/publishfiltering.git
-[submodule "dump-db"]
-	path = dump-db
-	url = git://github.com/phoque/dump-db.git
 [submodule "force_download"]
 	path = force_download
 	url = git://github.com/kanduvisla/force_download.git
