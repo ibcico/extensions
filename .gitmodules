@@ -259,9 +259,6 @@
 [submodule "symphony-typography"]
 	path = symphony-typography
 	url = git://github.com/tonyarnold/symphony-typography.git
-[submodule "datestamp_helper"]
-	path = datestamp_helper
-	url = git://github.com/rainerborene/datestamp_helper.git
 [submodule "systemidfield"]
 	path = systemidfield
 	url = git://github.com/rowan-lewis/systemidfield.git
