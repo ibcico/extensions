@@ -277,3 +277,510 @@
 [submodule "uploadify"]
 	path = uploadify
 	url = git://github.com/nickdunn/uploadify.git
+[submodule "click-to-import"]
+	path = click-to-import
+	url = git://github.com/eKoeS/click-to-import.git
+[submodule "ab_split_test"]
+	path = ab_split_test
+	url = git://github.com/lewiswharf/ab_split_test.git
+[submodule "activitylog"]
+	path = activitylog
+	url = git://github.com/rowan-lewis/activitylog.git
+[submodule "addresslocationfield"]
+	path = addresslocationfield
+	url = git://github.com/designermonkey/addresslocationfield.git
+[submodule "admin_css_override"]
+	path = admin_css_override
+	url = git://github.com/michael-e/admin_css_override.git
+[submodule "Advanced-Upload-Field"]
+	path = Advanced-Upload-Field
+	url = git://github.com/klaftertief/Advanced-Upload-Field.git
+[submodule "aim_status"]
+	path = aim_status
+	url = git://github.com/josephdenne/aim_status.git
+[submodule "akismet"]
+	path = akismet
+	url = git://github.com/symphonists/akismet.git
+[submodule "author_login"]
+	path = author_login
+	url = git://github.com/bauhouse/author_login.git
+[submodule "author_roles"]
+	path = author_roles
+	url = git://github.com/kanduvisla/author_roles.git
+[submodule "auto_collapse_fields"]
+	path = auto_collapse_fields
+	url = git://github.com/Solutions-Nitriques/auto_collapse_fields.git
+[submodule "Backend-JavaScriptr"]
+	path = Backend-JavaScriptr
+	url = git://github.com/joaobarbosa/Backend-JavaScriptr.git
+[submodule "backend-language-switcher"]
+	path = backend-language-switcher
+	url = git://github.com/johnjcamilleri/backend-language-switcher.git
+[submodule "better_forms"]
+	path = better_forms
+	url = git://github.com/eKoeS/better_forms.git
+[submodule "browsedevkit"]
+	path = browsedevkit
+	url = git://github.com/rowan-lewis/browsedevkit.git
+[submodule "canofspam"]
+	path = canofspam
+	url = git://github.com/rowan-lewis/canofspam.git
+[submodule "checklistfield"]
+	path = checklistfield
+	url = git://github.com/rowan-lewis/checklistfield.git
+[submodule "cleanurlparams"]
+	path = cleanurlparams
+	url = git://github.com/rowan-lewis/cleanurlparams.git
+[submodule "collapse_fields"]
+	path = collapse_fields
+	url = git://github.com/6ui11em/collapse_fields.git
+[submodule "configuration"]
+	path = configuration
+	url = git://github.com/bauhouse/configuration.git
+[submodule "content_type_mappings"]
+	path = content_type_mappings
+	url = git://github.com/symphonycms/content_type_mappings.git
+[submodule "cookiemonster"]
+	path = cookiemonster
+	url = git://github.com/symphonists/cookiemonster.git
+[submodule "gcse"]
+	path = gcse
+	url = git://github.com/ahwayakchih/gcse.git
+[submodule "ysboss"]
+	path = ysboss
+	url = git://github.com/ahwayakchih/ysboss.git
+[submodule "default_event_values"]
+	path = default_event_values
+	url = git://github.com/brendo/default_event_values.git
+[submodule "dont_drop"]
+	path = dont_drop
+	url = git://github.com/nils-werner/dont_drop.git
+[submodule "downloadable"]
+	path = downloadable
+	url = git://github.com/haircut/downloadable.git
+[submodule "Downloadable-Page-Type"]
+	path = Downloadable-Page-Type
+	url = git://github.com/ashooner/Downloadable-Page-Type.git
+[submodule "Symphony-2-Dummyimage"]
+	path = Symphony-2-Dummyimage
+	url = git://github.com/robphilp/Symphony-2-Dummyimage.git
+[submodule "dynamic_csv"]
+	path = dynamic_csv
+	url = git://github.com/designermonkey/dynamic_csv.git
+[submodule "dynamic_event_redirect"]
+	path = dynamic_event_redirect
+	url = git://github.com/makenosound/dynamic_event_redirect.git
+[submodule "dynamic_json"]
+	path = dynamic_json
+	url = git://github.com/brentburgoyne/dynamic_json.git
+[submodule "email_field"]
+	path = email_field
+	url = git://github.com/symphonycms/email_field.git
+[submodule "emailtemplatefilter"]
+	path = emailtemplatefilter
+	url = git://github.com/rowan-lewis/emailtemplatefilter.git
+[submodule "email_template_manager"]
+	path = email_template_manager
+	url = git://github.com/creativedutchmen/email_template_manager.git
+[submodule "codemirror"]
+	path = codemirror
+	url = git://github.com/oleae/codemirror.git
+[submodule "enable_tabkey"]
+	path = enable_tabkey
+	url = git://github.com/nils-werner/enable_tabkey.git
+[submodule "edui"]
+	path = edui
+	url = git://github.com/eKoeS/edui.git
+[submodule "expressionfield"]
+	path = expressionfield
+	url = git://github.com/rowan-lewis/expressionfield.git
+[submodule "fancy_box"]
+	path = fancy_box
+	url = git://github.com/symphonists/fancy_box.git
+[submodule "symphony-address_field"]
+	path = symphony-address_field
+	url = git://github.com/jeremyboles/symphony-address_field.git
+[submodule "Default-Value-Textarea"]
+	path = Default-Value-Textarea
+	url = git://github.com/joaobarbosa/Default-Value-Textarea.git
+[submodule "filterfield"]
+	path = filterfield
+	url = git://github.com/ahwayakchih/filterfield.git
+[submodule "imagecropper"]
+	path = imagecropper
+	url = git://github.com/klaftertief/imagecropper.git
+[submodule "languagefield"]
+	path = languagefield
+	url = git://github.com/ahwayakchih/languagefield.git
+[submodule "noediting"]
+	path = noediting
+	url = git://github.com/nils-werner/noediting.git
+[submodule "firebug_profiler"]
+	path = firebug_profiler
+	url = git://github.com/nickdunn/firebug_profiler.git
+[submodule "fit_image"]
+	path = fit_image
+	url = git://github.com/kanduvisla/fit_image.git
+[submodule "flexdatefield"]
+	path = flexdatefield
+	url = git://github.com/rowan-lewis/flexdatefield.git
+[submodule "frontend_authentication"]
+	path = frontend_authentication
+	url = git://github.com/pointybeard/frontend_authentication.git
+[submodule "hashfield"]
+	path = hashfield
+	url = git://github.com/symphonists/hashfield.git
+[submodule "health_check"]
+	path = health_check
+	url = git://github.com/superminge/health_check.git
+[submodule "image_index_preview"]
+	path = image_index_preview
+	url = git://github.com/nilshoerrmann/image_index_preview.git
+[submodule "importcsv"]
+	path = importcsv
+	url = git://github.com/kanduvisla/importcsv.git
+[submodule "improvedpageresolve"]
+	path = improvedpageresolve
+	url = git://github.com/ahwayakchih/improvedpageresolve.git
+[submodule "incrementnumberfield"]
+	path = incrementnumberfield
+	url = git://github.com/nickdunn/incrementnumberfield.git
+[submodule "indecent"]
+	path = indecent
+	url = git://github.com/brendo/indecent.git
+[submodule "involve_your_client"]
+	path = involve_your_client
+	url = git://github.com/kanduvisla/involve_your_client.git
+[submodule "iplocation_lookup"]
+	path = iplocation_lookup
+	url = git://github.com/pointybeard/iplocation_lookup.git
+[submodule "itemlist_action"]
+	path = itemlist_action
+	url = git://github.com/gisanfu/itemlist_action.git
+[submodule "language_redirect"]
+	path = language_redirect
+	url = git://github.com/klaftertief/language_redirect.git
+[submodule "less"]
+	path = less
+	url = git://github.com/kanduvisla/less.git
+[submodule "logsdevkit"]
+	path = logsdevkit
+	url = git://github.com/rowan-lewis/logsdevkit.git
+[submodule "markdown_typography"]
+	path = markdown_typography
+	url = git://github.com/nilshoerrmann/markdown_typography.git
+[submodule "markitup"]
+	path = markitup
+	url = git://github.com/ahwayakchih/markitup.git
+[submodule "massuploadutility"]
+	path = massuploadutility
+	url = git://github.com/scottkf/massuploadutility.git
+[submodule "media_resolvr"]
+	path = media_resolvr
+	url = git://github.com/makenosound/media_resolvr.git
+[submodule "mediumtextareafield"]
+	path = mediumtextareafield
+	url = git://github.com/makenosound/mediumtextareafield.git
+[submodule "field_member_email"]
+	path = field_member_email
+	url = git://github.com/andrrr/field_member_email.git
+[submodule "members"]
+	path = members
+	url = git://github.com/symphonycms/members.git
+[submodule "field_metakeys"]
+	path = field_metakeys
+	url = git://github.com/brendo/field_metakeys.git
+[submodule "meta_section"]
+	path = meta_section
+	url = git://github.com/symphonists/meta_section.git
+[submodule "msiehtml5"]
+	path = msiehtml5
+	url = git://github.com/iwyg/msiehtml5.git
+[submodule "multilingual_field"]
+	path = multilingual_field
+	url = git://github.com/6ui11em/multilingual_field.git
+[submodule "neatify"]
+	path = neatify
+	url = git://github.com/rowan-lewis/neatify.git
+[submodule "netspeed-service"]
+	path = netspeed-service
+	url = git://github.com/josephdenne/netspeed-service.git
+[submodule "new_visiter"]
+	path = new_visiter
+	url = git://github.com/lewiswharf/new_visiter.git
+[submodule "numberfield"]
+	path = numberfield
+	url = git://github.com/symphonycms/numberfield.git
+[submodule "sut"]
+	path = sut
+	url = git://github.com/nilshoerrmann/output_field.git
+[submodule "page_fields"]
+	path = page_fields
+	url = git://github.com/skeary/page_fields.git
+[submodule "page_lhandles"]
+	path = page_lhandles
+	url = git://github.com/vlad-ghita/page_lhandles.git
+[submodule "page_prototypes"]
+	path = page_prototypes
+	url = git://github.com/klaftertief/page_prototypes.git
+[submodule "pages_editor_minimal"]
+	path = pages_editor_minimal
+	url = git://github.com/pointybeard/pages_editor_minimal.git
+[submodule "pagesfield"]
+	path = pagesfield
+	url = git://github.com/symphonycms/pagesfield.git
+[submodule "parampool_to_xml"]
+	path = parampool_to_xml
+	url = git://github.com/nickdunn/parampool_to_xml.git
+[submodule "paypal_payments"]
+	path = paypal_payments
+	url = git://github.com/makenosound/paypal_payments.git
+[submodule "pessimistic-db-locking"]
+	path = pessimistic-db-locking
+	url = git://github.com/scottkf/pessimistic-db-locking.git
+[submodule "populate_entry"]
+	path = populate_entry
+	url = git://github.com/carsten/populate_entry.git
+[submodule "position_picker"]
+	path = position_picker
+	url = git://github.com/kanduvisla/position_picker.git
+[submodule "email_postmark"]
+	path = email_postmark
+	url = git://github.com/symphonists/email_postmark.git
+[submodule "private_upload"]
+	path = private_upload
+	url = git://github.com/kanduvisla/private_upload.git
+[submodule "publish_shortcuts"]
+	path = publish_shortcuts
+	url = git://github.com/makenosound/publish_shortcuts.git
+[submodule "sass_helper"]
+	path = sass_helper
+	url = git://github.com/makenosound/sass_helper.git
+[submodule "schema_migration"]
+	path = schema_migration
+	url = git://github.com/rainerborene/schema_migration.git
+[submodule "sections_panel"]
+	path = sections_panel
+	url = git://github.com/rowan-lewis/sections_panel.git
+[submodule "Select-All-Rows"]
+	path = Select-All-Rows
+	url = git://github.com/dtan/Select-All-Rows.git
+[submodule "sessionmonster"]
+	path = sessionmonster
+	url = git://github.com/symphonists/sessionmonster.git
+[submodule "shorten"]
+	path = shorten
+	url = git://github.com/alpacaaa/shorten.git
+[submodule "sitename"]
+	path = sitename
+	url = git://github.com/bauhouse/sitename.git
+[submodule "slider"]
+	path = slider
+	url = git://github.com/kanduvisla/slider.git
+[submodule "smtp_email_library"]
+	path = smtp_email_library
+	url = git://github.com/pointybeard/smtp_email_library.git
+[submodule "sortdatasourcebyparam"]
+	path = sortdatasourcebyparam
+	url = git://github.com/ahwayakchih/sortdatasourcebyparam.git
+[submodule "statusfield"]
+	path = statusfield
+	url = git://github.com/kanduvisla/statusfield.git
+[submodule "symlink_manifest"]
+	path = symlink_manifest
+	url = git://github.com/lewiswharf/symlink_manifest.git
+[submodule "symphony_tests"]
+	path = symphony_tests
+	url = git://github.com/rowan-lewis/symphony_tests.git
+[submodule "textileplusformatter"]
+	path = textileplusformatter
+	url = git://github.com/rowan-lewis/textileplusformatter.git
+[submodule "extension--time-field"]
+	path = extension--time-field
+	url = git://github.com/symphonycms/extension--time-field.git
+[submodule "symphony-typogrify"]
+	path = symphony-typogrify
+	url = git://github.com/tonyarnold/symphony-typogrify.git
+[submodule "uniquecheckboxfield"]
+	path = uniquecheckboxfield
+	url = git://github.com/rowan-lewis/uniquecheckboxfield.git
+[submodule "field_unique_link"]
+	path = field_unique_link
+	url = git://github.com/kanduvisla/field_unique_link.git
+[submodule "uniqueinputfield"]
+	path = uniqueinputfield
+	url = git://github.com/symphonycms/uniqueinputfield.git
+[submodule "validation"]
+	path = validation
+	url = git://github.com/symphonists/validation.git
+[submodule "version_info"]
+	path = version_info
+	url = git://github.com/nils-werner/version_info.git
+[submodule "Symphony-WMD-Editor"]
+	path = Symphony-WMD-Editor
+	url = git://github.com/dougoftheabaci/Symphony-WMD-Editor.git
+[submodule "WYM-Editor-for-Symphony-CMS"]
+	path = WYM-Editor-for-Symphony-CMS
+	url = git://github.com/mqchen/WYM-Editor-for-Symphony-CMS.git
+[submodule "symphony-zencoding"]
+	path = symphony-zencoding
+	url = git://github.com/eKoeS/symphony-zencoding.git
+[submodule "bilinkfield"]
+	path = bilinkfield
+	url = git://github.com/rowan-lewis/bilinkfield.git
+[submodule "breadcrumb"]
+	path = breadcrumb
+	url = git://github.com/symphonists/breadcrumb.git
+[submodule "breadcrumb_field"]
+	path = breadcrumb_field
+	url = git://github.com/rowan-lewis/breadcrumb_field.git
+[submodule "bulkimporter"]
+	path = bulkimporter
+	url = git://github.com/brendo/bulkimporter.git
+[submodule "calendaroverlay"]
+	path = calendaroverlay
+	url = git://github.com/rowan-lewis/calendaroverlay.git
+[submodule "campaign_monitor"]
+	path = campaign_monitor
+	url = git://github.com/brendo/campaign_monitor.git
+[submodule "field_credit_card_details"]
+	path = field_credit_card_details
+	url = git://github.com/josephdenne/field_credit_card_details.git
+[submodule "customfieldcaptions"]
+	path = customfieldcaptions
+	url = git://github.com/brendo/customfieldcaptions.git
+[submodule "db_sync"]
+	path = db_sync
+	url = git://github.com/nickdunn/db_sync.git
+[submodule "IP-to-Location"]
+	path = IP-to-Location
+	url = git://github.com/ashooner/IP-to-Location.git
+[submodule "deployer"]
+	path = deployer
+	url = git://github.com/dianlight/deployer.git
+[submodule "export_entry"]
+	path = export_entry
+	url = git://github.com/brendo/export_entry.git
+[submodule "sym_charactercount_textinput"]
+	path = sym_charactercount_textinput
+	url = git://github.com/eoghanobrien/sym_charactercount_textinput.git
+[submodule "sym_charactercount_textarea"]
+	path = sym_charactercount_textarea
+	url = git://github.com/eoghanobrien/sym_charactercount_textarea.git
+[submodule "color_chooser_field"]
+	path = color_chooser_field
+	url = git://github.com/MrBlank/color_chooser_field.git
+[submodule "frontendmembermanager"]
+	path = frontendmembermanager
+	url = git://github.com/rowan-lewis/frontendmembermanager.git
+[submodule "geocodingfield"]
+	path = geocodingfield
+	url = git://github.com/klaftertief/geocodingfield.git
+[submodule "Field--Hinted-Text-Input"]
+	path = Field--Hinted-Text-Input
+	url = git://github.com/creativedutchmen/Field--Hinted-Text-Input.git
+[submodule "jquery_datetime_picker"]
+	path = jquery_datetime_picker
+	url = git://github.com/TheJester12/jquery_datetime_picker.git
+[submodule "mailchimp"]
+	path = mailchimp
+	url = git://github.com/lewiswharf/mailchimp.git
+[submodule "nestedcats"]
+	path = nestedcats
+	url = git://github.com/andrrr/nestedcats.git
+[submodule "numericgroupingfield"]
+	path = numericgroupingfield
+	url = git://github.com/rowan-lewis/numericgroupingfield.git
+[submodule "openid_auth"]
+	path = openid_auth
+	url = git://github.com/alpacaaa/openid_auth.git
+[submodule "output_field"]
+	path = output_field
+	url = git://github.com/nilshoerrmann/output_field.git
+[submodule "packages"]
+	path = packages
+	url = git://github.com/kanduvisla/packages.git
+[submodule "pingomatic"]
+	path = pingomatic
+	url = git://github.com/nickdunn/pingomatic.git
+[submodule "pinnable_field"]
+	path = pinnable_field
+	url = git://github.com/rowan-lewis/pinnable_field.git
+[submodule "git"]
+	path = git
+	url = git://github.com/kanduvisla/private_upload.git
+[submodule "publishnotesfield"]
+	path = publishnotesfield
+	url = git://github.com/makenosound/publishnotesfield.git
+[submodule "admin_rainbow_headline"]
+	path = admin_rainbow_headline
+	url = git://github.com/nils-werner/admin_rainbow_headline.git
+[submodule "readonly_mode"]
+	path = readonly_mode
+	url = git://github.com/nils-werner/readonly_mode.git
+[submodule "reflectionfield"]
+	path = reflectionfield
+	url = git://github.com/rowan-lewis/reflectionfield.git
+[submodule "repeatingdatefield"]
+	path = repeatingdatefield
+	url = git://github.com/rowan-lewis/repeatingdatefield.git
+[submodule "Root-Page-Params"]
+	path = Root-Page-Params
+	url = git://github.com/creativedutchmen/Root-Page-Params.git
+[submodule "s3upload_field"]
+	path = s3upload_field
+	url = git://github.com/ashooner/s3upload_field.git
+[submodule "safari_uploads"]
+	path = safari_uploads
+	url = git://github.com/michael-e/safari_uploads.git
+[submodule "selectbox_link_field_combo"]
+	path = selectbox_link_field_combo
+	url = git://github.com/vlad-ghita/selectbox_link_field_combo.git
+[submodule "sitemap_xml"]
+	path = sitemap_xml
+	url = git://github.com/superminge/sitemap_xml.git
+[submodule "Static-Files-Compressor-for-Symphony-CMS"]
+	path = Static-Files-Compressor-for-Symphony-CMS
+	url = git://github.com/mqchen/Static-Files-Compressor-for-Symphony-CMS.git
+[submodule "stopforumspam"]
+	path = stopforumspam
+	url = git://github.com/designermonkey/stopforumspam.git
+[submodule "strong_author_passwords"]
+	path = strong_author_passwords
+	url = git://github.com/nickdunn/strong_author_passwords.git
+[submodule "symql"]
+	path = symql
+	url = git://github.com/nickdunn/symql.git
+[submodule "tabbed_textarea"]
+	path = tabbed_textarea
+	url = git://github.com/kanduvisla/tabbed_textarea.git
+[submodule "templatedtextformatters"]
+	path = templatedtextformatters
+	url = git://github.com/ahwayakchih/templatedtextformatters.git
+[submodule "uniondatasource"]
+	path = uniondatasource
+	url = git://github.com/brendo/uniondatasource.git
+[submodule "Symphony-2-Router"]
+	path = Symphony-2-Router
+	url = git://github.com/robphilp/Symphony-2-Router.git
+[submodule "xmlfield"]
+	path = xmlfield
+	url = git://github.com/symphonists/xmlfield.git
+[submodule "xmlimporter"]
+	path = xmlimporter
+	url = git://github.com/rowan-lewis/xmlimporter.git
+[submodule "Geo-Location-Service"]
+	path = Geo-Location-Service
+	url = git://github.com/josephdenne/Geo-Location-Service.git
+[submodule "recaptcha"]
+	path = recaptcha
+	url = git://github.com/symphonists/recaptcha.git
+[submodule "Redirect_Subpage"]
+	path = Redirect_Subpage
+	url = git://github.com/creativedutchmen/Redirect_Subpage.git
+[submodule "serverheaders"]
+	path = serverheaders
+	url = git://github.com/symphonycms/serverheaders.git
+[submodule "symphony-signedfileuploadfield"]
+	path = symphony-signedfileuploadfield
+	url = git://github.com/tonyarnold/symphony-signedfileuploadfield.git
