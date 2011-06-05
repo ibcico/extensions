@@ -436,9 +436,6 @@
 [submodule "image_index_preview"]
 	path = image_index_preview
 	url = git://github.com/nilshoerrmann/image_index_preview.git
-[submodule "importcsv"]
-	path = importcsv
-	url = git://github.com/kanduvisla/importcsv.git
 [submodule "improvedpageresolve"]
 	path = improvedpageresolve
 	url = git://github.com/ahwayakchih/improvedpageresolve.git
