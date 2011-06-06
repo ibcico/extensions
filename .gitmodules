@@ -784,3 +784,6 @@
 [submodule "importcsv"]
 	path = importcsv
 	url = git@github.com:2webcompany/importcsv.git
+[submodule "sessionid"]
+	path = sessionid
+	url = git@github.com:2webcompany/sessionid.git
