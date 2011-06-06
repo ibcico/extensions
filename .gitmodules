@@ -781,3 +781,6 @@
 [submodule "symphony-signedfileuploadfield"]
 	path = symphony-signedfileuploadfield
 	url = git://github.com/tonyarnold/symphony-signedfileuploadfield.git
+[submodule "importcsv"]
+	path = importcsv
+	url = git@github.com:2webcompany/importcsv.git
